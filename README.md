@@ -10,4 +10,4 @@
 2. ООП
 3. Kotlin
 4. Android
-5. Git# About_My
+5. Git
